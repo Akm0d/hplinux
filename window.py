@@ -29,7 +29,7 @@ Output = builder.get_object("Output")
 
 # Initialize variables and home directory
 user = getpass.getuser()
-directory = "/home/" + user
+directory = os.path.expanduser("~")
 output_text = ""
 os.chdir(directory)
 
@@ -67,7 +67,7 @@ def parse_input(text):
             if len(args) > 1:
                 directory = args[1]
             else:
-                directory = "/home/" + user
+                directory = os.path.expanduser("~")
         os.chdir(directory)
         directory = os.getcwd()
         output(directory)
