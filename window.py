@@ -62,6 +62,8 @@ def parse_input(text):
     if len(args) == 0:
         output("")
     # floo = cd
+    elif args[0] + " " + args[1] == "Avada Kedavra":
+        os.system("gksudo xkill")
     elif args[0] == "floo":
         if len(args) > 1:
             if len(args) > 1:
