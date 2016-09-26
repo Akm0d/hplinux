@@ -77,6 +77,11 @@ def parse_input(spell):
     elif "exit" in spell:
         exit(0)
     else:
+        i = 0
+        for arg in args:
+            if "sudo" in arg:
+                args[i] = "gksudo"
+            i += 1
         # TODO make more magic happen when you enter a spell that isn't listed
         # Run as shell command if it isn't a spell first?
         # output(" command not found!")
