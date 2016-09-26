@@ -1,6 +1,7 @@
 #!/usr/bin/python
 import os
 import getpass
+import subprocess
 
 import gi
 
@@ -49,22 +50,22 @@ def output(text):
 # This is where you can add commands.
 # Please add them where they belong alphabetically
 # TODO save the command in a history file
-def parse_input(text):
+def parse_input(spell):
     # print the command to output
-    output(text)
+    output(spell)
     # Using the globally defined directory
     global directory
     # The return code
     success = 0
     # split the text into an array of arguments
-    args = text.split()
+    args = spell.split()
     # If enter is pressed alone then add a new line
     if len(args) == 0:
         output("")
     # floo = cd
-    elif args[0] + " " + args[1] == "Avada Kedavra":
+    elif "Avada Kedavra" in spell:
         os.system("gksudo xkill")
-    elif args[0] == "floo":
+    elif "floo" in spell:
         if len(args) > 1:
             if len(args) > 1:
                 directory = args[1]
@@ -73,9 +74,19 @@ def parse_input(text):
         os.chdir(directory)
         directory = os.getcwd()
         output(directory)
+    elif "exit" in spell:
+        exit(0)
     else:
         # TODO make more magic happen when you enter a spell that isn't listed
-        output(" command not found!")
+        # Run as shell command if it isn't a spell first?
+        # output(" command not found!")
+        proc = subprocess.Popen(args,stdout=subprocess.PIPE)
+        while True:
+	    line = proc.stdout.readline()
+	    if line != '':
+		output(line.rstrip())
+	    else:
+	        break
 
     return success
 

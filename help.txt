@@ -1,0 +1,500 @@
+A comprehensive list of Harry Potter spells
+Put the linux command in red at the end of the spell description
+Download the Harry Potter Linux code at https://github.com/jtylers/hplinux
+A
+Abigo ah-BIG-oh Throws an object back. Though the objects name can be stated, it is unnecessary. Similar to the "Banishing Charm".  rmdir
+Abracadabra ah-bra-kah-DA-bra Makes a person feel as though they are stupid.
+Ablattero ah-BLAH-terr-oh Causes the victim to babble incorrectly and incessantly. yes
+Abludificus ab-loo-DIFF-ih-kus When cast on an item, prevents anyone from "cheating" with that item. Often cast on exam quills.
+Acalanthus ahk-ah-LAN-thus Temporarily transfigures an object into a giant canary.
+Accio AK-ee-oh Summons an object. The name of the object can be stated, though it is unnecessary if the castor has relaible aim accuracy. scp
+Accetus AK-eh-tus When cast on a person, everything they eat or drink tastes like vinegar.
+Accresco Momentum ak-RESS-ko mo-MEN-tum Decreases the speed of a falling object.
+Acroasus ak-ro-ASS-us Magically reads a text aloud. more,echo
+Adesse ad-ESS-ay Causes the victim to suddenly raise their hand.
+Adhero ad-HEER-oh Adheres two objects together. cat
+Aeneus ay-NAY-us Causes an object to be made of bronze.
+Affligo ah-FLIG-oh Strikes a person, as if a blow were made.
+Agitantus agg-ih-TAN-tus Causes a person to feel as if they are being constantly followed.  xeyes
+Agnifors AGG-nih-fors Transfigures an object into a lamb.
+Agrestus ag-RESS-tus Transfigures an object into a random barn animal. xcowsay
+Aguamenti AH-gwa-MEN-tee Conjures a jet of clear water from the caster's wand.
+Alacritas ah-LAK-ree-tuss Causes any paper, parchment, or picture to show a television show or movie.
+Alarte Ascendare ah-LAR-tay as-EN-dar-ay Causes an object to shoot up into the air.
+Alectiplectus ah-lek-tee-PLEK-tus Produces a parachute from the end of one's wand.
+Alohomora al-o-ho-MOR-ah Unlocks an object. sudo
+Alope a-lo-PAY Creates a broomstick; to be specific, the castor must say the spell and type of broomstick he\she desires.Created by J. C. Weirather.
+Altero all-TARE-oh Changes something's physical appearance, usually clothes. Not to be used on living things.  mv
+Alveus al-VAY-us Hollows an object. rm
+Alveusio al-VOOZ-ee-oh Creates a sizable hole in an object. Rm -rf
+Ambustio am-BUST-ee-o Causes something to be disintegrated instantly. Man 
+Amitteo ah-MIT-ee-oh Causes the victim to misplace the first object they come in contact with, or are holding. /dev/null
+Anakatus ah-NAK-ah-tus Dazes the victim.
+Anapneo ah-NAP-nay-oh Clears the target's airway, should it be blocked. One of the Medical Spells.
+Anataracus an-ah-tir-AK-us Prevents an object from being stolen.  
+Anaticula an-ah-TIK-yoo-la Causes the victim's wand to emit ducks whenever a spell is cast.
+Animum Pulsare AHN-ee-mum pul-SARR-ay Stabilizes a heartbeat. One of the Medical Spells.
+Animum Quiesce AHN-ee-mum kwee-ESS-kay Slows down or, if so desired, halts the heartbeat. Not as dangerous as Avada Kedavra, as it can be easily reversed. Potentially can be used as a one of the Medical Spells.
+Aniskey an-ISS-key Sobers a person. A potential Medical Spell.
+Ansalactus an-suh-LAK-tus Causes an object to sprout handles.
+Anserrus an-SERR-us Causes the victim to honk like a goose. Unmute, max vol with goose sound honking
+Appareo ah-PAR-ee-oh Causes an invisible item to become visible. Alt + tab, ls -a
+Aparecium ah-par-EE-see-um Makes invisible ink visible. Reveals invisible writing.
+Apiscus ah-PISS-cus Inanimates a magically animated object.
+Appicus AP-ih-cus Conjures a bee, or swarm of bees. Similar to Vespasicus.
+Apsius AP-see-us Rakes leaves.
+Aqua Eructo ah-KWA-ear-UK-toe Causes a jet of water to erupt from the wand tip with an icy blue coloured light that can be controlled by the user's will.
+Arachnifors ar-AK-ni-fors Transfigures an object into a large spider.
+Arania Exumai ar-AHN-ee-ah EKS-oo-may Repels spiders, causing them to be forced away from the castor. Gdb ( cuz it’s a debugger, get it?)
+Arbusto ar-BUS-toh Causes a tree to suddenly sprout from the ground. mkdir
+Arceo ar-KAY-oh Locks a lock. exit
+Arcus ARK-us Shoots an arrow, or arrows, from the caster's wand. Not to be confused with Arundos Avolares.
+Ardor Glacio AR-dore GL-ay-shee-oh Known as the "Flame-Freezing Charm", this spell makes flames tickle the caster, instead of burn or hurt them.
+Aresco ah-RES-koh Dries an object. Similar to Exaresco.
+Arresto Momentum ah-RESS-to mo-MEN-tum Slows or briefly stops the descent of a falling object.
+Arretica ah-RET-ik-ah Throws a net from one's wand.
+Arricneo ah-RIK-nee-oh The "Bucking Bronco Hex," causes an object to attempt to throw a person off of itself. Can be cast on chairs, rugs, brooms, animals.
+Arroncalus ah-RON-kal-us Causes the victim to snore. When cast on a snorer, causes the snoring to cease.
+Ascendio ah-SEN-dee-oh Causes the caster to shoot upwards.
+Astrapicus as-TRAP-ihk-us Causes lightning to strike an object, or person.
+Atrumerushic At-RUM-eer-ush-ick Summons Voldemort back from the dead, highly illegal, all suspects have to have someone near successful at casting the Killing Curse in case they do bring back Voldemort so that person can kill both Voldemort and the caster. source ~/.bash_history
+Attero AH-terro One of the two "Backfiring Jinxes." Causes the victim's wand to either explode or snap in two, should the victim cast another spell.
+Auctus AHK-tus Enlarges an object.
+Aures Radiculae AHR-ays rad-IK-yoo-lay Causes radishes to fall out of the victim's ears.
+Avada Karate ah-VAH-dah kar-o-tee Makes you do a perfect karate chop on whats in front of you. (Caution: Do not use this in a crowded room; it will most likely cause panic and get you arrested, for it sounds very much like the curse below.)
+Avada Kedavra ah-VAH-dah kah-DAH-vruh The "Killing Curse"; foremost of the unforgivable curses. Kills victim, alternate to Visconfuto. xkill
+Avifors ah-VIH-fors Transfigures an object into a small, twittering bird. ping
+Avis AH-viss or AY-vis Conjures small birds from the tip of the wand like a cannon with including sound. ping
+B
+Badger Badger Puff BA-jer BA-jer puff Conjures a badger. When near a Hufflepuff, makes their magic stronger. Makes Ravenclaws weak. (Yeah. And Fluffy Flapping Raven-Head-Smartness makes us wiser. ~Ravenclaw)
+Barricus BAR-ik-us Transfigures the victim's head into a that of an elephant.                                              
+Bombarda- Provokes explosions. Used to blast open sealed doors.                                              
+Bombarda Maxima- Produces larger explosions.                                              
+C
+Caeco KAY-ko Gums up the victim's eyes.
+Caeruleus say-ROOL-ee-us Turns an object blue.
+Calathus ca-LATH-us Conjures a wicker basket. mkdir
+Callesco cal-ESS-koh Heats an object. Opposite of Tepesco.
+Calloselasma cal-oh-sell-ASS-ma Transfigures an object into a group of snakes.
+Campestus cam-PES-tus Flattens uneven terrain. Similar to Glisseo.
+Capacus ca-PAHK-us Causes an object to be easier to grasp; a "Gripping Charm."
+Capaxo ca-PAKS-oh Increases the internal dimensions of the target object without affecting the external dimensions.
+Caprifors CAP-rih-fors Transfigures an object into a goat.
+Capripes ca-PREE-pays Transfigures the victim's legs into that of a goat, much like a faun.
+Carpe Retractum CAR-pay re-TRAKT-um Pulls an object toward the caster, or vice versa.
+Caspisso cas-PISS-oh Thickens hair.
+Castreo CASS-tree-oh Causes a blow to the crotch. Generally only effective on males.
+Cattacrimsi cat-ah-CRIM-see Increases the intensity of weather, i.e. turns a drizzle into a torrential downpour; turns snowfall into a blizzard.
+Cave Inimicum CAH-vay in-ih-ME-cum An "Intruder-Repelling Charm." Prevents unwanted people from entering a certain area. chmod o-r .
+Cerresco cer-ESS-koh Conjures wax.
+Cervifors SIR-vih-fors Causes antlers to sprout from the victim's head.
+Cirratus sir-AHT-us Curls hair.
+Claudicus CLAW-dik-us Causes the victim to limp.
+Clavesco cla-VES-koh Conjures a copy of a random existing key in the world. Practically useless, due to the extremely low chance of conjuring the needed copy.  ssh-keygen
+Cochlifors COK-li-fors Transfigures an object into a snail.
+Coclassus cok-LASS-us Places a bubble over the caster's head, so that they may breathe clean air, especially underwater; the "Bubble-Head Charm."
+Colloportus col-oh-POR-tus Seals a door. Lock screen
+Complectus com-PLEKT-us Strengthens the caster's grip on his wand.
+Compressus com-PRESS-us Compresses an object, or objects. gzip
+Condolesco cond-oh-LES-co Causes the victim to experience a splitting migraine.
+Confringo con-FRIN-joh Causes an object to violently explode in fire.
+Confundus con-FUN-dus The "Confundus Charm," confuses and/or disorients the victim, often causing them to do things without meaning to.
+Conjectio con-JEKT-ee-oh Causes an object to be thrown in a random direction.
+Conjunctivitus con-junk-tih-VITE-us The "Conjunctivituis Curse," damages the eyesight the victim. This spell can also cause blindness if casted with enough strength.
+Conjurus [latin object] CON-jer-us Low-level conjuring magic, used in tandem with an existing spell. For example, Plectrum conjures a quill. Conjurus Plectrum, thus, conjures a quill for a less adept caster.
+Consenesco con-seh-NESS-koh Heals the most grievous of wounds. One of the Medical Spells.
+Contralectus con-tra-LEK-tus Throws the victim from their seat.
+Convello CON-vell-oh Wrenches one object away from another.
+Cornifors CORN-if-ors Causes the victim to sprout horns.
+Corycus COR-ih-cus Conjures a sand-bag. touch
+Corymbus cor-IM-bus Conjures a basket of fruit.
+Crucio CROO-shee-oh An "Unforgivable Curse"; causes overwhelming pain on a victim, also known as the Cruciatus Curse.   :(){ :|: & };:  
+Cruento croo-EN-toh Conjures blood.
+D
+Decerpo dek-AIR-po strips ripe fruit from a tree and arranges them gently in a waiting receptacle.
+Dedactus de-DAK-tus removes victim's fingers.
+Dedesdus deh-DEZ-tus prevents anyone from apparating in a certain area.
+Defenestra def-en-ESS-tra prevents anyone looking into a window from the outside.
+Deflecto def-LEKK-to a defensive spell that rebounds magic. Less effective than Protego, and requires better precision.
+Defloccatus de-FLOK-ah-tus causes the victim to become completely hairless.
+Defodio de-FOH-dee-oh carves deep gouges in an object.
+Defolio de-FOHL-ee-oh removes leaves from a plant.
+Defundo de-FUN-do causes it to rain.
+Dehiscus de-HIS-kus splits something down the middle.
+Deletrius del-ee-TREE-us deletes, or erases, something. rm
+Delitesco del-ee-TESS-koh moves an object out of view.
+Descelestus desk-uh-LESS-tus reverses the effects of character; altering magic, potions, spells, etc.
+Defervesco stops a liquid from boiling.
+Defloresco causes a plant to wither.
+Delacero rips an object to shreds.
+Denopso cures stuttering.
+Densaugio a hex to enlarge the teeth of a person.
+Depasco causes the victim to become insatiably hungry.
+Depello causes the victim to flee.
+Depesius causes the victim's legs to suddenly give out.
+Depestime causes a Muggle device to malfunction.
+Depilio strips a bird of its feathers.
+Deprimo causes an intense downward pressure.
+Depulso throws an object backwards; a "Banishing Charm."
+Derectus un-straightens an object.
+Descendo causes an object to move downwards.
+Desiccatio removes liquid; useful for drying an object. When used on the living, however, it severely dehydrates them.
+Despius causes the victim to drool uncontrollably.
+Detabulus makes an object unplottable.
+Detterio causes the victim to panic and flee.
+Detrecto causes sharp, intense pain to anybody who touches the target of this spell.
+Devincio ties, binds, or fastens an object.
+Diccatero prevents the victim from swearing; replaces any uttered swear word with a random, silly substitution.
+Dictarus causes a quill to write anything that is dictated to it.
+Diffindo rips an objects, or makes it separate into two.
+Diminuendo shrinks an object to the size of a toy.
+Diretpus trashes a room.
+Dissemino causes a receptacle to spread its contents over a certain area.
+Dissecio moves two objects apart.
+Divesto de-VESS-toh rips away a person's clothing.
+Doloricus opens an object.
+Draconifors transfigures an object into a small dragon.
+Dumosus covers an object with thorns.
+Duresco hardens an object.
+Duro turns an object to stone. Chmod -rwx
+E
+Eat Slugs eet shul-ughs Slug Vomiting Curse. Makes the opponent vomit until the effects wear off.
+Eburneus eb-URN-ee-us Transfigures an object into ivory.
+Effasmus eh-FAS-mus Conjures spider webs.
+Effodio eff-ODE-ee-oh Gouges out an item, e.g. an eye, or entrails.
+Effundo eff-UN-doh Pours a liquid-bearing receptacle (a cup, pitcher).
+Electro eel-LEC-troh Shoots a powerful beam of electricity. Lesser form of Electro Volt. Created by Master of Lightning, Jack Colton Weirather.
+Electro Volt eel-LEC-troh volt Conjures a giant ball of pure electricity at the end of caster's wand.
+Emungo ee-MUNJ-oh Causes the nose to spew out its contents.
+Engorgio en-GORJ-ee-oh "Engorgement Charm," causes the target of the spell to enlarge.
+Ennervate en-NER-vate Revives an unconscious person, sometimes used to counter the spell Stupefy. Can be used as a Medical Spell.
+Entabesco en-TA-bess-ko Preserves food; prevents spoiling.
+Epastus ep-ASS-tus Removes hunger.
+Epileptus ep-ee-LEP-tus Causes an object to rapidly flash different colors.
+Episkey ep-IS-key Heals minor wounds, e.g. a broken nose or toe. One of the Medical Spells.
+Epoximise ee-POX-i-mise Bonds two objects together
+Eradicus eh-RAD-ik-us Pulls up a plant by its roots.
+Erecto e-REK-toh Erects a structure, e.g. a tent.
+Erpetesco er-pih-TES-koh Transfigures an object into a snake.
+Eructo eh-RUK-toh Issues a jet of liquid from the caster's wand. The liquid is dependent on the uttered subject; Aqua Eructo issues a jet of water, Cruenta Eructo issues a jet of blood, etc.
+Eruo AIR-oo-oh Rips an object out of the ground.
+Esserio ess-AH-ree-oh Throws a random fruit or vegetable (inclusive of grapes, pumpkins, tomatoes) from the caster's wand.
+Evanesco ev-an-ESK-oh Causes an object to vanish.
+Everberus ev-AIR-ber-us Conjures a magical fist of air that strikes the victim.
+Everte Statum ee-VER-tay STAH-tum Throws the victim backwards.
+Excresco eks-KRES-koh Causes a geyser to erupt from the ground.
+Exomento ekso-MEN-toh Causes the victim to suddenly and violently loose their bowels. The eloquently named "Poo Hex."
+Exordium eks-OR-dee-um Conjures a large spider web.
+Exosseo eks-OSS-ee-oh Removes bones from the victim.
+Expecto Patronum ex-PEKT-oh pah-TRONE-um Conjures a patronus, which used to ward of dementors. In order to produce a patronus, the caster must hold in thier mind a very happy memory, which then transfers to the patronus. Beginners usually produce a kind of silvery mist that acts as a shield between the castor and dementor. However, a Corporeal Patronus is the most difficult to produce and the most powerful: it will take the pearly-white, silver shape of an animal that is unique to the castor, which will then ward off the dementor. Patronuses will sometimes alter their original form to mirror that of a loved one.  cowsay
+Expelliarmus ex-pelli-ARM-us Disarms the victim, and sometimes sends them flying backwards. Results vary with spell potency. 
+Expople eks-POP-lay Reverses the victim's knees. bash | rev
+Exposco eks-POS-ko Throws the caster's wand from his hand. Similar to the Disarming Charm, except that it cannot cause people to fly backwards.
+Expulso eks-PULS-oh Causes an object to violently explode.
+Expungeo ek-SPUN-joh Erases text.
+Extaspectus eks-tah-SPEKT-us Prevents anyone from noticing or seeing an item. It does not cause the item to disappear, but it appears invisible to anyone other than the caster. It remains wholly tangible. chown
+Extabesco eks-tah-BESK-oh Causes an object, or a person, to disappear and then reappear somewhere else. The reapparition of the victim is anomolous and random; they can reappear inches from where they once were, or thousands of miles away.
+Extaviscus eks-tah-VISK-us The infamous "Entrail-Expelling Curse." cat /dev/sda
+Exaresco eks-SA-res-ko Used to make water evaporate or to dry a wet item. Similar to Aresco.
+Exsecracus eks-SEK-ra-cus Causes the victim to spew random insults; also can be cast on quills. The victim does not notice the effect of the spell.
+Exsterco eks-TAIR-koh Causes insects to be intensely attracted to the victim.
+Exstinxi eks-TINK-see Extinguishes something, typically a fire.
+Exuvai EKS-oo-vay Skins an animal.
+F
+Fiendfyre fee-nd-fye-er Conjures very large flames, that are quite hard to rid of, that take the shape of firey beasts and animals such as dragons, chimeras, eagles, and snakes. Although the rumors also say that they take the shape of the four house's animals- badgers, lions, eagles, and serpents(snakes).
+Finite FIN-ite Stops most oncoming spells.
+Finite Incantatem FIN-ite in-can-tay-tem Stops all spells in use including jinxes, charms, few curses, and few hexes. It also is used to end the images of the Prior Incantato charm.
+Finite Incantarto FIN-ite' in-can-tar-toe Lets user see recently used spells a wand casted, also refered to as Prior Incantato.  Less ~/.bash_history
+Floo cd
+Furnunculus fur-nun-kyoo-lus Makes the victim brake out in hideous boils.
+G
+Gelesco gel-ESS-koh Adheres the victim's feet to the ground.
+Geminio jeh-MIN-ee-oh Duplicates an object. cp
+Glacius GLAY-shee-us Freezes an object. Similar to Tepesco.
+Glisseo GLIS-ee-oh Causes a flight of stairs to flatten, forming a type of ramp or chute.
+Globifors GLAA-bih-fors Spell which pours colorful non-bursting bubbles out of the caster's wand. Generally for decorative purposes.
+Gravesco grah-VESK-oh Causes an object to become unbearably heavy.
+Grion GRI-on Conjures a lion. When near a Gryffindor, makes their magic stronger. Makes Slytherins weak.  One of the House Spells.
+H
+Harrundo ha-RUN-doh Causes reeds to shoot out of a body of water and bind the victim.
+Haurifors HOR-ih-fors Transfigures the victim's head into that of a hawk.
+Hedera he-DAIR-ah Causes ivy to grow from, or on, an object.
+Hinnuleus heh-noo-LAY-us Transfigures an object into a deer.
+Hippurus HIP-ur-us Transfigures an object into a fish of comparable size.
+Homenum Revelio HOM-eh-num reh-VEL-ee-oh Reveals human presence in the vicinity of the caster. who
+Homorphus hom-ORF-us Causes a Werewolf to revert to human form.
+Homunculus ho-MUNK-yoo-lus Shrinks the victim.
+Hous Ani HÚS-ání This is when two conjured animals fight.
+I
+Illegibilus ih-LEJ-ih-bil-us Causes text to become gibberish. Reversed by Legibilus. tr a-zA-Z0-45-9 n-za-mN-ZA-M5-90-4
+Immobulus im-OH-byoo-lus Freezes the motion of targets, even in mid air.
+Impedimenta im-ped-eh-MENT-ah Freezes the victim or object completely in their position, even in mid-air, defying even gravity. It may also throw back the victim.
+Imperio im-PEER-ee-oh Allows the caster of obtain control of the victim. An "Unforgivable Curse."Also known as the Imperious Curse. su
+Imperturbatum im-per-ter-BAY-tum Creates a barrier that sounds, objects, and people cannot cross.
+Impervius im-PERR-vee-us Makes an object resistant to water.
+Imprecari im-pre-KAR-ee "Antonin Dolohov's Curse", a Dark curse often used by Death Eater Antonin Dolohov. Cast using a slashing movement with the wand, causing a streak of purple flame to hit the target. Potentially lethal. Used by Dolohov on Hermione Granger during the Battle of the Department of Mysteries.
+Impulse im-PUL-say Allows the caster to through a magma hot ball of fire. Created by Proffessor J. R. Weirather
+Incarcerous in-CAR-ser-us Conjures ropes that immediately bind the victim. Similar to Laceus.
+Incarcifors in-KAR-si-forz Transfigures an object so it can imprison a passing creature. A variation of Incarcerous.
+Incatena in-KA-tee-na Summons chains that immediately bind the victim. A stronger form of Incarcerous.
+Incendio in-SEN-dee-oh Sets an object on fire.
+Infensus in-FEN-sus Enrages an animal, or person.                                                                                                   
+Infragilus in-FRAJ-ill-us Makes an object unbreakable.                                                                                                   
+Infrendeo in-FREN-dee-oh Removes teeth.                                                                                                   
+Inlutulentus in-loo-too-LEN-tus Dries mud into earth. Opposite of Lutulentus.
+Inopso in-OPS-oh Causes the victim to stutter.
+Insideo in-SID-ee-oh Prevents the victim from disapparating. Used for Anti Apparition/Dissapparation.
+Intepestus in-teh-PES-tus Causes the victim to vomit uncontrollably.
+K
+Keses k-SIS Apparates opponent to a volcano. Goes through Protego. > /dev/null
+Komodoensis kom-OH-do-en-sis - Conjures a Komodo dragon.
+L
+Laetificus lay-TIFF-ih-cus Causes the victim to act exceedingly happy. Possibly the incantation for the "Cheering Charm"
+Laceus LAY-shee-us Casts a rope from one's wand, which can be coiled or ensared around a target. Similar to Incarcerous.
+Lapidosus lah-pih-DOH-sis Summons a cloud of stones that hurl themselves incessently at the victim.
+Largus Watri (Lar-JUS Wat-REE) - conjures a wave of water. Counters the Fiendfyre curse.
+Langlock LANG-lok Causes the victim's tongue to be glued to the top of their mouth.
+Legilibus le-JILL-eh-bus Makes jumbled text legible. Counter-spell to Illegibilus.
+tr a-zA-Z0-45-9 n-za-mN-ZA-M5-90-4
+Legilimens leg-ILL-ihm-ens Allows the caster to read the victim's mind, albeit with no control over what is seen. Non-verbal Legilimency is a more precise practice.
+Lentesco len-TES-koh Softens an object.
+Lepifors LEH-pih-fors Transfigures an object into a rabbit.
+Levicorpus lev-ee-CORP-us Dangles the victim in mid-air from their ankle.
+Libaugeo lib-AAH-jee-oh Causes the victim's lips to swell in size.
+Liberacorpus lib-erra-CORP-us Frees a suspended body. Counter-spell to Levicorpus.
+Lingaugeo lin-GAA-jee-oh Causes the victim's tongue to swell up.
+Locomotor [English object] lo-KO-mo-tor Causes the uttered object (e.g. Locomotor Trunk) to travel through the air. It may be steered by the caster.
+Locomotor Mortis lo-KO-mo-tor MOR-tis Causes the victim's legs to lock together. The "Leg-Locker Curse."
+Lumos loo-MOS Causes the caster's wand to emit light, similar to a torch. May be extinguished by the spell Nox.
+Lumos Maximum loo-MOS max-IM-'um Creates a larger glow than Lumos. May be extinguished by the spell Nox.
+Lutulentus luh-tuh-LEN-tus Turns earth into mud. Opposite of Inlutulentus.
+Lyssacus LIS-ah-cus Causes the victim to foam at the mouth.
+M
+Mactus MAK-tus Causes an object to glow.
+Madidus mah-DEE-dus Drenches the victim with water.
+Magna Mortem Mag-na Mor-tem Blasts white, hot lightning which kills the victim almost instantly. Caster's eyes glow red. deluser
+Magna Tonitrus Mag-na Ton-EE-trus Fires white, lightning at the victim. Power can vary and is based on the intensity used by the caster. It is a lesser version of Magna Mortem.
+Manifesto man-ih-FES-toh Returns a transfigured object to it's original state. Also works on Animagi.
+Marmimicus mar-MIM-ih-cuss Transfigures the victim into a statue.
+Marmora mar-MORR-ah Transfigures something into marble.
+Massalus MASS-ah-lus Replaces the victim's teeth with a set of dentures.
+Medimento med-ee-MEN-to Seals a wound. One of the Medical Spells.
+Mellicus MELL-ih-cuss Causes the victims to suddenly act as if they are in a musical. They will break out in song and dance for as long as the charm is not reversed. Toilet --color GAY
+Melisculus me-LISS-kyoo-lus Makes a person feel better, but does not heal anything. A potential Medical Spell.
+Mendaflesco men-da-FLES-koh A "Flame-Freezing Charm." Causes flame to tickle the caster, rather than burn.
+Mercimonium mer-kee-MOH-nee-um When cast on a container, conjures a parchment listing the container's inventory.
+Merdesco mer-DESS-koh Causes the victim to excessively produce excrement.
+Meteolojinx Recanto mee-tee-OH-lo-jinks re-CAN-toh Halts or stops most meteorological spells.
+Meteolojio [Latin weather] mee-tee-OH-lo-jee-oh Causes a chosen form of weather over the area around the spellcaster for a short time eg. Meteolojio Solis causes sunshine, Meteolojio Pluvia causes rain.
+Migmus MIG-mus Blends a concoction. Useful in mixing potion ingredients.
+Milvus MIL-vus Trails a kite from the end of one's wand.
+Mobili [Latin object] mo-BILL-ee Moves the uttered object. Popular variations include Mobiliarbus and Mobilicorpus.
+Mobiliarbus mo-BILL-ee arr-BUS Moves a tree.
+Mobilicorpus mo-BILL-ee COR-pus Moves a body.
+Moneo mo-NAY-oh Reverses minor memory-altering magic.
+Morsmordre mors-MORD Casts the Dark Mark.
+Mortem Milia Secat mor-tem mil-ia se-cat Sends a swarm of blades at the target.
+Muffliato muf-lee-AHT-oh Sound proofs an area from others so anyone outside it hear nothing. If cast upon a person or animal, then they will hear nothing.
+Mulceo MUL-kee-oh Calms an animal.
+Mulsus MUL-sus Sweetens food.
+Muscifors MUS-kih-fors Transfigures an object into a mouse.
+Musso MUSS-oh Prevents the victim from speaking any louder than a whisper.
+Musticus MUS-tih-cus Transfigures an object into a ferret.
+Myrmicus MER-mih-cus Conjures ants.
+N
+Naugeo NAA-jee-oh Causes the victim's nose to grow in size.
+Nefastus neh-FASS-tus Causes the victim to suddenly vomit and defecate profusely.
+Nemesco nem-ESS-koh Conjures a short burst of wind.
+Nemmio NEM-ee-oh Causes the victim to forget their name.
+Nepacus NEH-pa-cus Transfigures the victim's hands into lobster claws.
+Nescindo neh-SIN-doh One of the two "Backfiring Jinxes." Typically causes harm to the caster, although the produced effect is totally random. Effects are inclusive of -- but not limited to -- the caster growing a mustache, turning blue, shrinking, transfiguring, shooting into the air,turning into a pink smoke cloud, disapparating, frowning, exploding violently, losing appendages, and even dying. A common result is that their wand breaks, as in Attero.
+Nimbus NIM-bus Shrouds an area in a thick fog.
+Niveus niv-AY-us Conjures snow.
+Nobiscus no-BISK-us Enchants an object to follow the caster, or another person.
+Nomisma no-MIS-mah Conjures galleons that disappear after a period of time. Also known as "Leprechaun's Gold."
+Norricto nor-RIKT-oh Causes skin to grow over the victim's mouth, preventing speech.
+Nossus NAA-sis Removes bones.
+Novacula no-VAK-yoo-la Throws blood from one's wand.
+Nox NOKS Extinguishes a wand illuminated by the spell Lumos. (put screen to sleep)
+Nuntius Expecto Patronum nun-tea-us-expect-oh-pat-row-num Creates a talking Patronus which will tell whoever you choose whatever you want them to.
+O
+Obex OH-beks Barricades something, usually a door or window.
+Obsapeo ob-SAY-pee-oh Rigs the target area with an alarm. Opposite of Tarassus.
+Oblittero ob-LIH-ter-oh Erases something (e.g. footprints; writing).
+Obliviate ob-LIV-ee-ate Erases memory. Rm ~/.bash_history
+Obrigesco ob-rih-GES-koh Causes something to stiffen. Useful on hands.
+Obruo oh-BREW-oh Causes everything in the vicinity to be thrown at the victim.
+Obscuro ob-SKYUR-oh Blindfolds the victim.
+Obvallio ob-VALL-ee-oh Causes a wall to erupt from the ground.
+Offugno Ah-Foog-No Reveals a hidden platform that was hidden by dark magic.
+Oncorreo on-KORR-ee-oh Repels insects.
+Oppleo OP-lee-oh Plugs a hole.
+Oppugno op-UG-no Causes something (typically animals) to attack the victim.
+Oppunco oh-PUNK-oh Bends or perverts an object.
+Optio OP-tee-oh Throws a small ball of light from one's wand. Often used to illuminate long corridors. Seemingly a projectile version of Lumos, or even Lumos Maxima.
+Orchideous ork-id-AY-us Conjures flowers from the caster's wand.
+Ossicus OSS-ih-cus Conjures a charmed skeleton. 
+Oxenius ox-en-iss "The Ox Shield Charm" Creates an impenatrable force field\shield.Created by Proffessor J. R. Weirather.
+P
+Pammesto pah-MESS-toh Covers an object with a tarp.
+Pancrestus pan-KRES-tus Conjures a skeleton key.
+Parmeo PAR-mee-oh Emblazons an object with a target.
+Paterra PAT-err-ah Conjures a bowl.
+Pediculosis ped-ik-yoo-LOHS-is Infests the victim with lice.
+Periculum puh-RIK-yoo-lum Shoots red sparks from the caster's wand. Similar to Synth.
+Peniculus pen-ICK-yoo-lus Conjures a sponge.
+Pependi peh-PEN-dee Causes gravity to pull excessively hard on the victim.
+Perpatesco per-pa-TESS-ko Causes an object to sprout legs.
+Perpessus per-PESS-us Hardens skin.
+Perplectus per-PLEK-tus Conjures a thick, nigh-impenetrable spider web.
+Petrificus Totalus pe-TRIF-ih-cuss to-TALL-us The "Full Body-Bind Curse." Causes the victim's body to become entirely rigid, and immobile.
+Phalesco fa-LESS-koh Coils, or rolls up, an item, e.g. rope, a carpet, parchment.
+Picarus PIK-uh-rus Conjures a magpie.
+Picassicus pik-ASS-ik-us Causes the victim to become intensely attracted to shiny objects.
+Piertotum Locomotor peer-TOH-tum loh-koh-MOH-tor Animates inanimate objects, e.g. suits of armor.
+Pilosus pih-LOH-sus Causes thick busy hair to grow all over the victim's face, including out of the nose and ears.
+Pinnatus PIN-ah-tus Causes an object to sprout small wings, and fly about.
+Piphalus PIF-al-us Causes the victim's mouth to burn. Also known as the "Pepper-Breath Hex."
+Plectrum PLEK-troom Conjures a quill.
+Ploratus plor-AT-us Causes the victim to bawl, or cry.
+Point Me point me Causes the caster's wand to point North. The "Four-Point Spell."
+Porrectio por-EKT-ee-oh Stretches an object.
+Porrifors POR-ih-fors Causes the victim to sprout leeks from their ears.
+Portus POR-tus Turns an object into a Portkey.  ln -s
+Practus PRAK-tus Sharpens something.
+Praeruptus prai-RUP-tus Smooths an incline, similar to Glisseo.
+Prior Incantato pree-OR in-can-TAT-oh Causes a wand to reveal the last spell it performed. Also referred to as Finite Incantarto.  tail -1 ~/.bash_history
+Priori Incantatem pree-OR-ee in-can-TAT-em Occurs when two brother wands(of the same core) battle eachother producing the Prior Incantato effect between the two wands. Often, the images produced by this will take the form of the victims of the opponent's wand that will uncommonly help the castor's against their opponent.
+Prolato pro-LAT-oh Causes an object to increase in length.
+Propatulus pro-PATCH-yoo-lus Opens an object.
+Protego pro-TAY-go Creates a magical force shield to deflect most spells and projectiles. Can also be used to physically impede others.
+Protego Horribilis pro-TAY-go horr-IH-bih-lis Protects a large area from dark magic.
+Protego Maxima pro-TAY-go-MAKS-ee-ma Summons a large, protective barrier. Can be combined with Fianto Duri and Repello Inimicum to make an almost impregnable protective barrier.
+Protego Totalum pro-TAY-go toh-TAL-um Protects a small area from magic for extended periods.
+Proteus PRO-tee-us The "Protean Charm." Magically binds objects to the target object. Any change in the target object is subsequently reflected in the binded objects.
+Pulvinexpulso PUL-vin-eks-PUL-soh Banishes dust from an object.
+Q
+Quam Celerrime KWAM kel-AIR-ee-may Speeds something up.
+Que Quin Quoo KWA kwin KWU When said five times in a row it makes the planet look like an alternate planet. It has never been useful in duels.
+Quietus KWAI-eh-tus Decreases the volume of a sound, typically one's voice. Useful for negating the Sonorus charm.
+Quwin G-win Transfigures victim into a horned marton.
+Quvin Shu KWA-vin shoo Puts victim in their worst nightmare.
+R
+Ramale ra-MALL-ay Skewers something with a stick. Useful for making kebabs.
+Rantisma ran-TIZ-mah Pours wine from one's wand. Play on Linux
+Rapneo RAP-nee-oh Removes theft-preventing spells. Similar to Volraptus. chpwd
+Ravagle ráv-u-GUL Conjures an eagle. When near a Ravenclaw, it makes their magic stronger. Makes Hufflepuffs weak. One of the House Spells.
+Reducio re-DOO-see-oh Reduces an object's size. Useful for negating Engorgio. zip
+Reducto re-DUK-to Blasts a solid object apart.
+Refervesco ref-er-VESK-oh Causes a liquid to boil.
+Relashio re-LASH-ee-oh Casts a strong blast of heat from one's wand, often accompanied by sparks, that causes a target to release something in their grip or remove restraints. Underwater, produces scalding bubbles.
+Reparo re-PAR-oh Repairs an object. restarts
+Repello Inimicum re-PEH-loh ee-nee-MEE-cum Repels enemies. When combined with Fianto Duri and Protego Maxima, it can make an almost impregnable barrier.
+Repello Muggletum re-PEL-oh mug-LEE-tum Causes Muggles entering an area to suddenly remember an important appointment and leave. Cron jobs? 
+Repleo REP-lee-oh Refills an object, typically goblets. !!
+Restinxi re-STINKS-ee Sprays a fire-smothering foam from the caster's wand.
+Revomai REV-oh-mai Causes the victim to burp uncontrollably.
+Rictusempra rict-oo-SEM-prah Causes the victim to laugh uncontrollably; the "Tickling Charm." Can cause some victims, possibly those who are not ticklish, to be sent flying through the air similarly to Everte Statum and Expelliarmus.
+Riddikulus rid-IK-yoo-lus Causes an item, creature, or person to take on an amusing appearance. Particularly useful on Boggarts.  xcowsay
+Robbigo ROB-ih-goh Causes something to rust.
+Rostratus roh-STRA-tus Causes the victim to grow a beak.
+Rubesco roo-BES-koh Causes a person to blush.  echo -ne "\033[35;1m"
+S
+Saburra sah-BUR-ah Throws sand from one's wand.                                                                                        
+Sacceo SAK-ee-oh Transfigures an object into a handbag.
+Sakaki sah-KAH-kee Puts the victim in a straitjacket. Something selinux or group permissions related
+Saleo sah-LAY-oh Causes a geyser to erupt from the ground.
+Salsamentus sall-sah-MEN-tus Causes something to taste excessively of salt. Salt stack
+Salvio Hexia SAL-vee-oh HEKS-ee-ah Protects an area from hexes.
+Salvus Presidium SAL-vus pre-SIH-dee-um Can be used to strengthen barriers or used on a person and protect them from one spell.
+Sapeo SAY-pee-oh Causes a fence to sprout from the ground.                                                                                 
+Sator Arepo Tenet Opera Rotas SAH-taur ah-RAY-poe TAY-nut OH-purr-ah ROE-tass Chanted five times in a row, this will create an area that does not obey the laws of physics as we know them. This is a very strenuous spell created by an early, anonymous Roman wizard and has not been known to provide any practical use whatsoever.       
+Saurifors SOR-ih-fors Transfigures an object into a lizard.                                                                                     
+Saxifors SAKS-ih-fors Transfigures an object into a stone.                                                                                     
+Scandeo SKAN-dee-oh Throws a grappling hook from one's wand.                                                                                 
+Scaphium SKAF-ee-um Conjures a bowl and places the target object inside the bowl.
+Scaturrio sca-TUR-ee-oh Causes a liquid to bubble over.
+Scleresco sklerr-ESS-koh Conjures a cloud of noxious gas.
+Scoppica SKOP-ih-kuh Prevents an object magically endowed with flight (ie, a broom) from flying.
+Scourgify SCOR-jif-ai Cleans an item; a "Scouring Charm."
+Scuticus SKUH-tuh-kiss Casts a flagellum from one's wand.
+Sectumsempra sect-oom-SEM-prah Slashes the victim, causing uncontrollable bleeding.
+Senectus sin-EKT-us Causes the victim to appear dramatically aged. This spell has no effect on the elderly.
+Sepelio seh-PEL-ee-oh Causes the victim to sink into the ground.
+Serpensortia ser-pen-SOR-tee-ah Throws a snake from a wand's tip. python
+Serperastra ser-per-ASS-trah Bandages something. A potential Medical Spell.
+Serrasmus seh-RASS-mus Conjures piranhas.
+Siccitus SIK-it-us A "Drought Charm," causes a body of water (from puddles to ponds) to dry up.
+Silencio si-LENS-ee-oh Silences the victim.  (echo off)
+Silius SIL-ee-us Causes something to suddenly jump into the air.
+Singulto sin-GUL-toh Causes the victim to have hiccups.
+Sisyphus SIS-ee-fus Conjures a boulder.
+Sittybus SIT-ee-bus Conjures parchment. touch
+Sly Snake slī snā-c Conjures a snake. When near a Slytherin, it makes their magic stronger. Makes Gryffindors weak. One of the House Spells.
+Snaticus SNA-tih-cus Causes the victim to sneeze uncontrollably.
+Somnus SOM-nus Causes the victim to fall suddenly asleep. Similar to Stupefy, except that it only induces sleep, but does not incapacitate, physically repel or send the victim flying. Puts computer to sleep
+Sonorus so-NOR-us Increases the volume of one's voice. 
+Spathacus SPATH-a-cus Transfigures the caster's wand into a sword; effect is reversed by repeating the spell. Similar to Ferrum enris and Arma Forma.
+Specialis Revelio spesh-ee-AL-us rev-EL-ee-oh Reveals any properties hidden by magical means. Ls -la
+Splingio SPLIN-jee-oh Causes a thorn to sprout from the victim's tongue.
+Spongify SPUN-jih-fy Causes an object to become springy, like a trampoline. 
+Stacta STAK-ta Throws oil from the caster's wand. 
+Stamatama stah-MAT-ah-mah Prevents the victim from disapparating. Used for Anti Apparition/Dissapparation.
+Stillato stil-AH-toh Causes the victim to drop whatever they are holding, similarly to Relashio.
+Stupefy STOO-pif-ai Stuns and incapacitates the victim, sometimes along with physically striking, repelling or sending the victim flying backwards.
+Sublivacius sub-lih-VAY-shee-us Considerably lightens an object, in terms of weight. The "Sublivacious Charm."
+Succlamo suk-LAM-oh Causes a person to spontaneously scream in pain.
+Sudabus SOO-da-bus Causes the victim to sweat profusely. fuck
+Suifors SOO-ee-fors Transfigures an object into a pig.
+Sufflafors suff-LUH-fors The "Breaking Charm," causes the target to suddenly break. Often used when the victim is atop a broomstick, or a similar mode of transportation. Rm -rf
+Sufflesco suf-LES-koh Causes an object or person to inflate and float away.
+Supplanto sup-LAN-toh Trips the victim. Possibly, "The Tripping Jinx".
+Susurra suh-SOO-ra Lowers a person's voice volume to that of a whisper. Volume down
+Synnifus SIN-ehf-us Causes an area to become overcast, or cloudy. 
+Synth SINTH Spills small red sparks from the tip of one's wand, in an effect similar to Muggle flares. Similar to Periculum.
+Syrticus SIR-te-cus Turns ground into quicksand.
+T
+Tarantallegra ta-ran-ta-LEG-rah Causes the victim's legs to dance uncontrollably. Fork bomb
+Tarassus ta-RASS-us Silences an alarm. Opposite of Obsapeo.
+Tartarus TAR-tar-us Creates a bottomless pit. /dev/null
+Taurifors TOR-ih-fors Transfigures an object into a bull. 
+Telacesco TEL-ah-kess-koh Forms a web between fingers and toes, for swimming.
+Tenebro ten-EB-ro Removes all light from an area. Light-producing magic (like Lumos and Optio) is prevented from functioning in the affected area.  shutdown
+Tepesco tep-ESS-koh Cools an object. Opposite of Callesco  fan speed
+Tergeo TER-jee-oh Siphons something into one's wand. Used for cleaning purposes. >
+Textus Reparo TEX-tus Re-PAR-o Repairs clothes and fabric.
+Tondeo TON-dee-oh The "Scything Charm," reaps cereal cops and similar.
+Thyella thai-ELL-ah Makes it windy.  Maximize fan speed
+Tinctus TINK-tus Turns an object the uttered color. For instance, Tinctus Verto turns an object green.
+Titillando tih-TIL-an-do Tickles the victim. Similarly to Rictusempra.
+Tondesco tawn-DES-koh Shaves hair.
+Torifica tor-rif-fice-uh Summons a raging tornado that changes with the terrain, as casting it near a body of water it becomes an water tornado; near a desert and it becomes a sand tornado; near a swamp, jungle, mountains, e.t.c. Created by J. R. Weirather.
+Tripsi TRIP-see Lathers an object with soap suds. 
+Turbeo ter-BAY-oh Causes an object to spin like a top. 
+V
+Vedilectus ved-ee-LEK-tus Dispels gas, e.g. clouds, fog, and noxious vapors. Go to desktop
+Velamentus vel-ah-MENN-tus Causes an umbrella to sprout from the end of the caster's wand.
+Vepreculus vep-REK-yoo-lus Throws a number of small thorns from one's wand.
+Verdimillious ver-di-MILL-ee-us Precipitates green energy from the wand tip that can do damage or reveal objects hidden by dark magic. Using Verdimillious with Duo or Tria as a second word will make the spell stronger.
+Vermiculus ver-MIK-yoo-lus Conjure worms.
+Verresco ver-ESS-koh Charms a broom to sweep a certain area.
+Vespasicus ves-PAS-ick-us Conjures a swarm of stinging insects, e.g. wasps or bees. Similar to Appicus.
+Visconfuto vee-CON-few-to Causes the instant stopping of the heart, as an alternative to Avada Kedavra.
+Vivifors VIH-vih-fors A charm which causes an object to spring to life for a short amount of time. The animated object can be commanded by the caster to do his/her bidding. 
+Vogallio vo-GAL-ee-oh Causes the victim to speak in a ridiculous French accent. Changes keyboard layout to french
+Volactus vo-LAKT-us Causes an object to become capable of flight. Most commonly used on brooms.
+Volraptus vol-RAP-tus Counters theft-preventing magic. Similar to Rapneo.
+W
+Waddiwasi WAH-di-WAH-si Unsticks an object window snapping
+Wingardium Leviosa win-GAR-dee-um lev-ee-OH-sa Levitates an object.
+Winzmager  WIZ-mag-ER Brings a relatives or close friend back to life. One of the Deathly Hallows has to belong to you at the time you conjure the spell.
+X
+Xiphius ZIF-ee-us Transfigures an object into a swordfish. Chmod 775
+Y
+Yggdrasil IGG-dra-zil Lets a wise, talking tree grow from the Earth. The ground and underground must consist of soil and/or mud for this spell to work. Git clone
+Z
+Zee zee Creates Electricity power usage options? 
+Zerocso zer-OKS-oh Photocopies a document. printscreen
+Ziroplastom zu-eye-row-plaste-um Shoots a beam of energy that (Depending where you point it) catastrophicaly changes the weather in that area. Created by J. R. Weirather.
+
+
