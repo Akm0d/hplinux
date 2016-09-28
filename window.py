@@ -29,6 +29,7 @@ Input = builder.get_object("Input")
 Output = builder.get_object("Output")
 
 # Initialize variables and home directory
+return_code = 0
 user = getpass.getuser()
 directory = os.path.expanduser("~")
 output_text = ""
@@ -82,16 +83,9 @@ def parse_input(spell):
             if "sudo" in arg:
                 args[i] = "gksudo"
             i += 1
-        # TODO make more magic happen when you enter a spell that isn't listed
-        # Run as shell command if it isn't a spell first?
-        # output(" command not found!")
-        proc = subprocess.Popen(args,stdout=subprocess.PIPE)
-        while True:
-	    line = proc.stdout.readline()
-	    if line != '':
-		output(line.rstrip())
-	    else:
-	        break
+        # Run as shell command if it isn't a spell first
+        return_code = shell(args)
+        success == return_code
 
     return success
 
@@ -115,6 +109,16 @@ def enter_pressed(widget, event):
         return parse_input(text)
     elif event.keyval == TAB:
         tab_autocomplete()
+
+# Function to execute commands using the shell
+#TODO Make the output asynchronous
+def shell(command):
+    popen = subprocess.Popen(command, stdout=subprocess.PIPE,bufsize=1)
+    lines_iterator = iter(popen.stdout.readline, b"")
+    while popen.poll() is None:
+        for line in lines_iterator:
+	    output(line.rstrip())
+
 
 
 # Connect the textView input to a function
